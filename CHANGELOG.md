@@ -1,3 +1,7 @@
+## 2019-05-02 not versioned
+
+- Remove camptocamp/systemd to manage systemd unit file
+
 ## 2019-03-17 2.0.0
 - Drop Puppet 3 support
 - Add Puppet 6 support
